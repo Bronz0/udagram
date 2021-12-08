@@ -1,0 +1,1 @@
+http://udagram-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://bronzo-udagram-dev.s3.amazonaws.com/hayat_dhc_logo.jpg
